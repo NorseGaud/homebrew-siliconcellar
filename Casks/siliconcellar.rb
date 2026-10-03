@@ -1,6 +1,6 @@
 cask "siliconcellar" do
-  version "0.1.0,22"
-  sha256 "d99564ac0fa8d7444cbaa23fbb68d44ed6d96790bcc0db51c70c92d409f3c35c"
+  version "0.1.3,31"
+  sha256 "9395df9fed1f7a56221caa2d28b2a6c8763bdb446d13646867a8ee3e7afad454"
 
   url "https://github.com/NorseGaud/SiliconCellar/releases/download/#{version.csv.first}/SiliconCellar-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Silicon Cellar"
